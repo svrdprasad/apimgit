@@ -1,0 +1,14 @@
+{
+  "id": "/products/59ddba7357b3450b2495e655",
+  "name": "Product3",
+  "$ref-description": "api-management/products/Product3/product.description.html",
+  "terms": null,
+  "subscriptionRequired": true,
+  "approvalRequired": true,
+  "subscriptionsLimit": 1,
+  "state": "published",
+  "$refs-groups": [
+    "api-management/groups/Administrators/configuration.json"
+  ],
+  "$refs-apis": []
+}

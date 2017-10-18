@@ -1,0 +1,6 @@
+{
+  "Name": "UserProfile",
+  "$ref-Published": "api-management/portalTemplates/UserProfile/published.html",
+  "$ref-Draft": null,
+  "$ref-Original": "api-management/portalTemplates/UserProfile/original.html"
+}
