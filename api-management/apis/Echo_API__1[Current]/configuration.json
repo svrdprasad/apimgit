@@ -1,6 +1,6 @@
 {
   "id": "/apis/echo-api",
-  "name": "Echo API",
+  "name": "Echo API POC",
   "apiRevision": "1",
   "$ref-description": null,
   "serviceUrl": "http://echoapi.cloudapp.net/api",
